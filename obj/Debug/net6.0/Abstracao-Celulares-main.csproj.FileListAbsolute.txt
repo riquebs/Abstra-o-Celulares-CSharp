@@ -1,0 +1,15 @@
+C:\Users\BASE-13\Desktop\CSHARP\Abstracao-Celulares-main\bin\Debug\net6.0\Abstracao-Celulares-main.exe
+C:\Users\BASE-13\Desktop\CSHARP\Abstracao-Celulares-main\bin\Debug\net6.0\Abstracao-Celulares-main.deps.json
+C:\Users\BASE-13\Desktop\CSHARP\Abstracao-Celulares-main\bin\Debug\net6.0\Abstracao-Celulares-main.runtimeconfig.json
+C:\Users\BASE-13\Desktop\CSHARP\Abstracao-Celulares-main\bin\Debug\net6.0\Abstracao-Celulares-main.dll
+C:\Users\BASE-13\Desktop\CSHARP\Abstracao-Celulares-main\bin\Debug\net6.0\Abstracao-Celulares-main.pdb
+C:\Users\BASE-13\Desktop\CSHARP\Abstracao-Celulares-main\obj\Debug\net6.0\Abstracao-Celulares-main.csproj.AssemblyReference.cache
+C:\Users\BASE-13\Desktop\CSHARP\Abstracao-Celulares-main\obj\Debug\net6.0\Abstracao-Celulares-main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BASE-13\Desktop\CSHARP\Abstracao-Celulares-main\obj\Debug\net6.0\Abstracao-Celulares-main.AssemblyInfoInputs.cache
+C:\Users\BASE-13\Desktop\CSHARP\Abstracao-Celulares-main\obj\Debug\net6.0\Abstracao-Celulares-main.AssemblyInfo.cs
+C:\Users\BASE-13\Desktop\CSHARP\Abstracao-Celulares-main\obj\Debug\net6.0\Abstracao-Celulares-main.csproj.CoreCompileInputs.cache
+C:\Users\BASE-13\Desktop\CSHARP\Abstracao-Celulares-main\obj\Debug\net6.0\Abstracao-Celulares-main.dll
+C:\Users\BASE-13\Desktop\CSHARP\Abstracao-Celulares-main\obj\Debug\net6.0\refint\Abstracao-Celulares-main.dll
+C:\Users\BASE-13\Desktop\CSHARP\Abstracao-Celulares-main\obj\Debug\net6.0\Abstracao-Celulares-main.pdb
+C:\Users\BASE-13\Desktop\CSHARP\Abstracao-Celulares-main\obj\Debug\net6.0\Abstracao-Celulares-main.genruntimeconfig.cache
+C:\Users\BASE-13\Desktop\CSHARP\Abstracao-Celulares-main\obj\Debug\net6.0\ref\Abstracao-Celulares-main.dll
